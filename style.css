@@ -1,0 +1,84 @@
+img {
+    width: 30%;
+    height: 30%;
+  position: relative;
+  left: 35%;
+}
+
+#title {
+    text-align: center;
+    background-color: blanchedalmond;
+    color: cadetblue;
+}
+
+#listtitle {
+    font-size: 225%;
+    text-align: center;
+    background-color: cadetblue;
+}
+
+#computer {
+    position: absolute;
+    right: 4%;
+    top: 22%;
+    width: 5%;
+    height: 25%;
+}
+
+#listing {
+    font-size: 184.45%;
+}
+
+#line1 {
+    color: rgb(0, 0, 0);
+}
+
+#ENIAC {
+    text-align: center;
+    background-color: darkcyan;
+}
+
+#line2 {
+    color: rgb(0, 0, 0);
+}
+
+#IBM {
+    text-align: center;
+    background-color: darkcyan;
+}
+
+#IBMpic {
+    height: 2%;
+    width: 20%;
+}
+
+#ENIACpic {
+    height: 30%;
+    width: 35%;
+}
+
+#Apple {
+    text-align: center;
+    background-color: darkcyan;
+}
+
+#windows {
+    text-align: center;
+    background-color: darkcyan;
+}
+
+#worldweb {
+    text-align: center;
+    background-color: darkcyan;
+}
+
+#table {
+    position:absolute;
+    left: 37%;
+   top: 17%;
+}
+
+h2 {
+    text-align: center;
+    
+}
